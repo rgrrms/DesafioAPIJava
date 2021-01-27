@@ -9,7 +9,7 @@ Para criação da API foi utilizado como JVM o JAVA na versão 11.0.5
 
 Para executar a API deve colocar uma URI de acesso ao banco MongoDB no arquivo aplication.properties
 
-Sugiro a utilização de uma IDE como o IntelliJ para facilitar a instalação das dependências 
+Sugiro a utilização do Insominia ou Postman para teste dos EndPoints e de uma IDE como o IntelliJ para facilitar a instalação das dependências 
 e execução do programa, porém isso pode ser feito com os comando a seguir para:
 
 Instalar o Gradle
